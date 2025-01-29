@@ -28,6 +28,7 @@ Install dependencies:
 
 bash code
 **npm install**
+
 Configure the database:
 
 Update the database connection settings in the .env file.
@@ -37,3 +38,4 @@ Start the server:
 bash code
 **npm start**
 Access the application in your browser at http://localhost:3000.
+![Screenshot 2025-01-29 125506](https://github.com/user-attachments/assets/d06c784f-9d76-49ef-ae33-ec4199bbe5f8)
