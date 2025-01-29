@@ -39,3 +39,11 @@ bash code
 **npm start**
 Access the application in your browser at http://localhost:3000.
 ![Screenshot 2025-01-29 125506](https://github.com/user-attachments/assets/d06c784f-9d76-49ef-ae33-ec4199bbe5f8)
+![Screenshot 2025-01-29 125245](https://github.com/user-attachments/assets/51715cea-3ae6-4eca-b051-e32d7b5c41ce)
+![Screenshot 2025-01-29 125314](https://github.com/user-attachments/assets/3b019214-de7d-428d-a444-735617c3bb22)
+![Screenshot 2025-01-29 125506](https://github.com/user-attachments/assets/bce04bc1-611c-4adc-bf16-3c5c337cb022)
+![Screenshot 2025-01-29 125558](https://github.com/user-attachments/assets/9b871b98-a6e0-4164-9509-0aeac3d8c9c2)
+
+
+
+
